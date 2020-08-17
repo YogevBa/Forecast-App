@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yogev-betito-14-8-2020/static/css/main.5fca92b1.chunk.css",
-    "main.js": "/yogev-betito-14-8-2020/static/js/main.cd848197.chunk.js",
-    "main.js.map": "/yogev-betito-14-8-2020/static/js/main.cd848197.chunk.js.map",
+    "main.js": "/yogev-betito-14-8-2020/static/js/main.c718868e.chunk.js",
+    "main.js.map": "/yogev-betito-14-8-2020/static/js/main.c718868e.chunk.js.map",
     "runtime-main.js": "/yogev-betito-14-8-2020/static/js/runtime-main.350128e9.js",
     "runtime-main.js.map": "/yogev-betito-14-8-2020/static/js/runtime-main.350128e9.js.map",
     "static/css/2.11829350.chunk.css": "/yogev-betito-14-8-2020/static/css/2.11829350.chunk.css",
     "static/js/2.6b82cc0f.chunk.js": "/yogev-betito-14-8-2020/static/js/2.6b82cc0f.chunk.js",
     "static/js/2.6b82cc0f.chunk.js.map": "/yogev-betito-14-8-2020/static/js/2.6b82cc0f.chunk.js.map",
     "index.html": "/yogev-betito-14-8-2020/index.html",
-    "precache-manifest.af023a3af17aa2287542d75abc0cb918.js": "/yogev-betito-14-8-2020/precache-manifest.af023a3af17aa2287542d75abc0cb918.js",
+    "precache-manifest.e65e6bc4c9d0410bac01d4dc0e9d2817.js": "/yogev-betito-14-8-2020/precache-manifest.e65e6bc4c9d0410bac01d4dc0e9d2817.js",
     "service-worker.js": "/yogev-betito-14-8-2020/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/yogev-betito-14-8-2020/static/css/2.11829350.chunk.css.map",
     "static/css/main.5fca92b1.chunk.css.map": "/yogev-betito-14-8-2020/static/css/main.5fca92b1.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.6b82cc0f.chunk.js",
     "static/css/main.5fca92b1.chunk.css",
-    "static/js/main.cd848197.chunk.js"
+    "static/js/main.c718868e.chunk.js"
   ]
 }
