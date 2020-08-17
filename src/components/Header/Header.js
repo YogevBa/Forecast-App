@@ -11,8 +11,8 @@ const Header = (props) => {
             <div className='header_title'>Weather Application</div>
             <ul className='navigation'>
                 <ToggleBtn />
-                <Link to="/" className="links"><li className="page_link"><span role="img" aria-label="home emoji">🏠</span> Home</li></Link>
-                <Link to="/favorites" className="links"><li className="page_link"><span role="img" aria-label="favorites emoji">⭐</span> Favorites</li></Link>
+                <Link to={process.env.PUBLIC_URL + "/"} className="links"><li className="page_link"><span role="img" aria-label="home emoji">🏠</span> Home</li></Link>
+                <Link to={process.env.PUBLIC_URL + "/favorites"} className="links"><li className="page_link"><span role="img" aria-label="favorites emoji">⭐</span> Favorites</li></Link>
 
             </ul>
         </nav>

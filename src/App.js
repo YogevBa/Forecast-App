@@ -12,14 +12,14 @@ const App = () => {
       <Header />
       <Route
         exact
-        path="/"
+        path={process.env.PUBLIC_URL + "/"}
         render={() => (
           <Home />
         )}
       />
       <Route
         exact
-        path="/favorites"
+        path={process.env.PUBLIC_URL + "/favorites"}
         render={() => (
           <Favorites />
         )}

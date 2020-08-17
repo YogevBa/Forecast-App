@@ -20,7 +20,7 @@ const SmallCard = (props) => {
                         <p className="cardCondition">Day: {props.data && props.data.Day ? props.data.Day.IconPhrase : ''}</p>
                         <p className="cardCondition">Night: {props.data && props.data.Day ? props.data.Night.IconPhrase : ''}</p>
                     </div>
-                    : <Link to="/" className='smallCard_favorites links' onClick={() => onSelect(props.data)}>
+                    : <Link to={process.env.PUBLIC_URL + "/"} className='smallCard_favorites links' onClick={() => onSelect(props.data)}>
                         <p className="city">{props.data && props.data.name ? props.data.name : ''}</p>
                         <p className="degrees">
                             {
