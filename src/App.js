@@ -12,7 +12,7 @@ const App = () => {
       <Header />
       <Route
         exact
-        path="/yogev-betito-14-8-2020"
+        path="/"
         render={() => (
           <Home />
         )}
