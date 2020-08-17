@@ -1,0 +1,141 @@
+.forecast_Container {
+    width:90vw;
+    height: 65vh;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px #888888;
+}
+
+.card_header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.location_info {
+    padding: 10px;
+    margin-left: 10px;
+    color:lightslategray;
+    font-size: 25px;
+    letter-spacing: 4px;
+    display: flex;
+    flex-flow: column;
+    align-items:flex-start;
+
+}
+
+.btnsWrapper {
+    display:flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.addToFavoritesBtn {
+    width:140px;
+    height:50px;
+    margin:0 10px;
+    border-radius: 15px;
+    font-size: 16px;
+    border:1px solid white;
+    background-color: lightskyblue;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    border:none;
+}
+
+.addToFavoritesBtn:hover {
+    background-color: white;
+    border-color: lightskyblue;
+    color: lightskyblue;
+    transition-duration: 0.3s;
+}
+
+.removeFromFavoritesBtn {
+    width:140px;
+    height:50px;
+    margin:0 10px;
+    border-radius: 15px;
+    font-size: 16px;
+    border:1px solid white;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.removeFromFavoritesBtn:hover {
+    background-color: white;
+    border-color: red;
+    color: red;
+    transition-duration: 0.3s;
+}
+
+.emoji {
+    font-size: 40px;
+    margin: 0;
+}
+
+.condition {
+    font-size: 70px;
+    color: lightslategray;
+}
+
+.cardsContainer {
+    display:flex;
+    padding: 30px;
+    margin-top:100px;
+}
+
+
+
+@media only screen and (max-width: 450px) {
+    /* For tablets: */
+    .actionBtn {
+        width: 70px;
+        height: 60px;
+        font-size: 12px;
+        margin: 0 2px;
+    }
+    .emoji {
+        font-size: 35px;
+    }
+    .location_info {
+        font-size: 20px;
+    }
+    .forecast_Container {
+        height: auto;
+    }
+    .cardsContainer {
+        display: flex;
+        flex-flow: column nowrap;
+        margin: 0;
+        padding: 0;
+    }
+    .condition {
+        font-size: 50px;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) and (min-width: 750px) {
+    /* For tablets: */
+    .actionBtn {
+        width: 100px;
+        height: 60px;
+        font-size: 16px;
+        margin: 0 2px;
+    }
+    .emoji {
+        font-size: 45px;
+    }
+    .forecast_Container {
+        height: auto;
+    }
+    .cardsContainer {
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .condition {
+        font-size: 50px;
+    }
+  }

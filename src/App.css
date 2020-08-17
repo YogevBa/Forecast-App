@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+p {
+  margin: 0;
+}
+
+
+.infoNote {
+  font-size: 25px;
+  color: lightslategray;
+  letter-spacing: 2px;
+}
+
+button:focus {
+  outline: none;
+}
+
+a:hover {
+  text-decoration: unset;
+}

@@ -1,0 +1,13 @@
+.home_wrapper {
+    display:flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+}
+
+
+.searchBar_note {
+    color:rgba(117, 117, 117, 0.993);
+    font-size: 23px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
