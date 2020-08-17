@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4740ba40b094d4a2501e6d599addf2ae",
+    "revision": "e492c01bb51fcffb9fff06885f2aafde",
     "url": "/yogev-betito-14-8-2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yogev-betito-14-8-2020/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "12390b52d588f24ab570",
+    "revision": "0c383858affde07301d2",
     "url": "/yogev-betito-14-8-2020/static/css/main.5fca92b1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yogev-betito-14-8-2020/static/js/2.6b82cc0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12390b52d588f24ab570",
-    "url": "/yogev-betito-14-8-2020/static/js/main.21ad808e.chunk.js"
+    "revision": "0c383858affde07301d2",
+    "url": "/yogev-betito-14-8-2020/static/js/main.cd848197.chunk.js"
   },
   {
     "revision": "e2ddbc5866f11666a5a6",
