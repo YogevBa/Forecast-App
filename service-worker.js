@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yogev-betito-14-8-2020/precache-manifest.247ecee16e058325c16a222e6c596e80.js"
+  "/yogev-betito-14-8-2020/precache-manifest.cccdc21f4c8fa9e2c88fe39f437dac5a.js"
 );
 
 self.addEventListener('message', (event) => {
