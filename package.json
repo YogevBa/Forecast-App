@@ -1,7 +1,7 @@
 {
   "name": "weather_app",
   "version": "0.1.0",
-  "homepage": "http://YogevBa.github.io/yogev-betito-14-8-2020",
+  "homepage": "https://YogevBa.github.io/yogev-betito-14-8-2020",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
