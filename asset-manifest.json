@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yogev-betito-14-8-2020/static/css/main.5fca92b1.chunk.css",
+    "main.js": "/yogev-betito-14-8-2020/static/js/main.dd0a70be.chunk.js",
+    "main.js.map": "/yogev-betito-14-8-2020/static/js/main.dd0a70be.chunk.js.map",
+    "runtime-main.js": "/yogev-betito-14-8-2020/static/js/runtime-main.350128e9.js",
+    "runtime-main.js.map": "/yogev-betito-14-8-2020/static/js/runtime-main.350128e9.js.map",
+    "static/css/2.11829350.chunk.css": "/yogev-betito-14-8-2020/static/css/2.11829350.chunk.css",
+    "static/js/2.6b82cc0f.chunk.js": "/yogev-betito-14-8-2020/static/js/2.6b82cc0f.chunk.js",
+    "static/js/2.6b82cc0f.chunk.js.map": "/yogev-betito-14-8-2020/static/js/2.6b82cc0f.chunk.js.map",
+    "index.html": "/yogev-betito-14-8-2020/index.html",
+    "precache-manifest.247ecee16e058325c16a222e6c596e80.js": "/yogev-betito-14-8-2020/precache-manifest.247ecee16e058325c16a222e6c596e80.js",
+    "service-worker.js": "/yogev-betito-14-8-2020/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/yogev-betito-14-8-2020/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5fca92b1.chunk.css.map": "/yogev-betito-14-8-2020/static/css/main.5fca92b1.chunk.css.map",
+    "static/js/2.6b82cc0f.chunk.js.LICENSE.txt": "/yogev-betito-14-8-2020/static/js/2.6b82cc0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.350128e9.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6b82cc0f.chunk.js",
+    "static/css/main.5fca92b1.chunk.css",
+    "static/js/main.dd0a70be.chunk.js"
+  ]
+}
